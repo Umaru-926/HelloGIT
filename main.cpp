@@ -265,6 +265,7 @@ int main(int argc, char** argv)
 
 	return 0;
 	//是的没错
+	//此处添加注释
 }
 
 // 每当窗口改变大小，GLFW会调用这个函数并填充相应的参数供你处理。
