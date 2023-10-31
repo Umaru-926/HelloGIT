@@ -1,6 +1,6 @@
 #include "Angel.h"
 #include <string>
-
+//OK, added by branch dev
 const glm::vec3 WHITE(1.0, 1.0, 1.0);
 const glm::vec3 BLACK(0.0, 0.0, 0.0);
 const glm::vec3 RED(1.0, 0.0, 0.0);
